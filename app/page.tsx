@@ -159,7 +159,7 @@ export default function ProfileUsaha() {
               height="400"
               className="rounded-[35px]"
               style={{ border: 0 }}
-              allowFullScreen=""
+              allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
             ></iframe>
