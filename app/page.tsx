@@ -171,9 +171,12 @@ export default function ProfileUsaha() {
           langsung ke workshop kami.
         </p>
         <div className="flex justify-center gap-4">
-          <button className="bg-blue-600 text-white px-10 py-4 rounded-2xl font-black shadow-lg hover:bg-blue-700 transition-all">
-            HUBUNGI SEKARANG
-          </button>
+        <Link
+              href="https://wa.me/+6285320246979"
+              className="bg-white text-blue-700 px-8 py-4 rounded-2xl font-black shadow-xl hover:scale-105 transition-transform"
+            >
+              HUBUNGI SEKARANG
+            </Link>
         </div>
       </section>
 

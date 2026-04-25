@@ -33,7 +33,7 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         {/* LOGO */}
         <div className="font-black text-blue-600 tracking-tighter text-xl italic">
-          POS.Fz
+          Percetakan Hade
         </div>
 
         {/* MENU DESKTOP (Muncul di layar besar) */}

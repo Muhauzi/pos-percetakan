@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 
 // Metadata sekarang aman di sini karena ini Server Component
 export const metadata: Metadata = {
-  title: "POS Percetakan",
-  description: "Sistem Penjualan Percetakan Sederhana",
+  title: "Percetakan Hade",
+  description: "Percetakan Terbaik Di Pagaden",
 };
 
 export default function RootLayout({ 
