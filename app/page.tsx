@@ -56,21 +56,15 @@ export default function ProfileUsaha() {
           <p className="text-lg md:text-xl opacity-90 mb-10 font-medium">
             Hasil Tajam, Proses Cepat, Harga Bersahabat. Apapun kebutuhan cetak
             Anda,{" "}
-            <span className="text-yellow-400 font-bold italic">POS.Fz</span>{" "}
+            <span className="text-yellow-400 font-bold italic">Percetakan Hade</span>{" "}
             solusinya.
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
             <Link
-              href="https://wa.me/yournumber"
+              href="https://wa.me/+6285320246979"
               className="bg-white text-blue-700 px-8 py-4 rounded-2xl font-black shadow-xl hover:scale-105 transition-transform"
             >
               ORDER VIA WHATSAPP
-            </Link>
-            <Link
-              href="/penjualan"
-              className="text-white border-2 border-white/30 px-8 py-4 rounded-2xl font-bold hover:bg-white/10 transition-all"
-            >
-              MASUK KE KASIR
             </Link>
           </div>
         </div>
@@ -111,7 +105,7 @@ export default function ProfileUsaha() {
           <div className="flex-1">
             <h2 className="text-4xl font-black mb-6 tracking-tighter leading-tight">
               MENGAPA HARUS DI{" "}
-              <span className="text-blue-500 italic">POS.Fz</span>?
+              <span className="text-blue-500 italic">Percetakan Hade</span>?
             </h2>
             <ul className="space-y-6">
               <li className="flex gap-4">
@@ -184,7 +178,7 @@ export default function ProfileUsaha() {
       </section>
 
       <footer className="py-10 border-t border-gray-100 text-center text-gray-400 text-xs">
-        <p>© 2026 POS.Fz Printing Service. All rights reserved.</p>
+        <p>© 2026 Percetakan Hade Printing Service. All rights reserved.</p>
       </footer>
     </div>
   );
