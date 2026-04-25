@@ -24,7 +24,7 @@ export default function NavbarLanding() {
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         
         <div className={`font-black tracking-tighter text-2xl italic ${scrolled ? "text-blue-600" : "text-white"}`}>
-          POS.Fz
+          Percetakan Hade
         </div>
 
         {/* Desktop Menu */}
